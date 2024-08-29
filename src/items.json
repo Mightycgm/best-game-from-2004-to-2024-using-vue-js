@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Disco Asylum: The Final Cut",
+        "score": "97 คะแนน",
+        "price": "฿469",
+        "description": "Disco Asylum: The Final Cut is a critically acclaimed RPG that blends deep storytelling with a unique art style. Play as a detective with a fractured mind, solving mysteries in a world on the brink of collapse. The Final Cut includes full voice acting and additional content.",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/header.jpg?t=1721654573"
+    },
+    {
+        "id": 2,
+        "name": "Half-Life 2",
+        "score": "96 คะแนน",
+        "price": "฿220",
+        "description": "Half-Life 2 is a groundbreaking first-person shooter that set new standards for the genre. Experience the role of Gordon Freeman as he battles through an alien-infested Earth. With its immersive story and revolutionary physics, this game remains a classic.",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/header.jpg?t=1721932671"
+    },
+    {
+        "id": 3,
+        "name": "Grand Theft Auto V",
+        "score": "96 คะแนน",
+        "price": "฿347",
+        "description": "Grand Theft Auto V offers an expansive open-world experience, blending action, adventure, and crime in Los Santos. Switch between three protagonists, each with their own story, and dive into an extensive online multiplayer mode. Its rich narrative and freedom make it a standout.",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg?t=1720472998"
+    },
+    {
+        "id": 4,
+        "name": "Baldur's Gate 3",
+        "score": "96 คะแนน",
+        "price": "฿1,799",
+        "description": "Baldur's Gate 3 is a fantasy RPG that brings the Dungeons & Dragons experience to life. Set in the iconic world of Faerûn, players engage in deep character interactions, turn-based combat, and narrative-driven exploration. The game offers vast choices, making each playthrough unique.",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg?t=1721123311"
+    },
+    {
+        "id": 5,
+        "name": "The Orange Box",
+        "score": "96 คะแนน",
+        "price": "฿400",
+        "description": "The Orange Box is a legendary collection of Valve's best games, including Half-Life 2, Portal, and Team Fortress 2. Experience groundbreaking storytelling, mind-bending puzzles, and competitive multiplayer in one package. It's a must-have for any gaming enthusiast.",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/469/header_586x192.jpg?t=1710527174"
+    },
+    {
+        "id": 6,
+        "name": "Bio Shock : Remastered",
+        "score": "96 คะแนน",
+        "price": "฿369",
+        "description": "BioShock is an atmospheric first-person shooter set in the underwater city of Rapture. With a gripping story, innovative gameplay mechanics, and a haunting art deco style, it explores themes of choice and consequence. A true masterpiece of the genre.",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409710/header.jpg?t=1598321131"
+    },
+    {
+        "id": 7,
+        "name": "Persona 5 Royal",
+        "score": "95 คะแนน",
+        "price": "฿1,915",
+        "description": "Persona 5 Royal is a stylish JRPG that combines school life simulation with supernatural battles. Join the Phantom Thieves as they fight to change society by entering the minds of corrupt individuals. Enhanced with new content, this definitive edition offers an unforgettable experience.",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg?t=1722428154"
+    },
+    {
+        "id": 8,
+        "name": "Portal 2",
+        "score": "95 คะแนน",
+        "price": "฿220",
+        "description": "Portal 2 is a critically acclaimed puzzle-platformer where players solve physics-based challenges using a portal gun. Set in the mysterious Aperture Science Labs, the game combines sharp wit, engaging gameplay, and an unforgettable storyline. Co-op mode adds a new dimension of fun.",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg"
+    },
+    {
+        "id": 9,
+        "name": "The Elder Scrolls V: Skyrim",
+        "score": "95 คะแนน",
+        "price": "฿899",
+        "description": "The Elder Scrolls V: Skyrim is an epic open-world RPG set in the fantasy world of Tamriel. Players explore a vast and immersive environment, battling dragons and shaping their destiny. With countless quests, mods, and replayability, it's a timeless adventure.",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1721923149"
+    },
+    {
+        "id": 10,
+        "name": "Mass Effect 2",
+        "score": "94 คะแนน",
+        "price": "฿849",
+        "description": "Mass Effect 2 is a sci-fi RPG where players command a diverse team to save the galaxy. Known for its deep narrative, character development, and choices that affect the story, it blends action with role-playing in a vast universe. A landmark title in the genre.",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2362420/header.jpg?t=1708017054"
+    },
+    {
+        "id": 11,
+        "name": "Bio Shock Infinite",
+        "score": "94 คะแนน",
+        "price": "฿559",
+        "description": "BioShock Infinite takes players to the floating city of Columbia in a mind-bending first-person shooter. With a compelling story, dynamic combat, and a rich setting, it explores themes of American exceptionalism and choice. A visually stunning and thought-provoking game.",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8870/header.jpg?t=1602794480"
+    },
+    {
+        "id": 12,
+        "name": "The Elder Scolls IV: Oblivion",
+        "score": "94 คะแนน",
+        "price": "฿369",
+        "description": "The Elder Scrolls IV: Oblivion is a groundbreaking RPG that immerses players in a richly detailed fantasy world. With its open-world design, deep quests, and character customization, it set new standards for the genre. A must-play for any RPG fan.",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22330/header.jpg?t=1712869953"
+    }
+]
